@@ -37,6 +37,9 @@ namespace Repository
         { 
             _repoContext = repositoryContext; 
         } 
+
+        public RepositoryWrapper()
+        { }
         
         public async Task SaveAsync() 
         {

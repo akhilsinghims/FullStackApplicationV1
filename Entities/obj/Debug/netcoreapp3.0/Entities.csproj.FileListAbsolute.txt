@@ -1,7 +1,6 @@
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\bin\Debug\netcoreapp3.0\Entities.dll
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
-C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache

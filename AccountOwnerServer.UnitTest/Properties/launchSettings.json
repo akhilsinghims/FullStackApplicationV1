@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AccountOwnerServer.xUnitTest": {
+      "commandName": "Executable"
+    }
+  }
+}
