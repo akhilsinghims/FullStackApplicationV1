@@ -1,0 +1,14 @@
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.deps.json
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.pdb
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb
