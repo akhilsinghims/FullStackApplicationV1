@@ -620,38 +620,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\akhil\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\akhil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Repository\\obj\\",
+      "projectPath": "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\akhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Contracts\\Contracts.csproj"
+            "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\akhil\\source\\repos\\GitHubV2\\FullStackApplication\\ServerApplication\\Entities\\Entities.csproj"
+            "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\AkhilGitHub\\FullStackApplicationV1\\Entities\\Entities.csproj"
             }
           }
         }
@@ -693,7 +691,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

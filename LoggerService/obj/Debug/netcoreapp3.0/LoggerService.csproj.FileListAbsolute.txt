@@ -12,3 +12,17 @@ C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Logg
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.deps.json
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\Contracts.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\Contracts.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb

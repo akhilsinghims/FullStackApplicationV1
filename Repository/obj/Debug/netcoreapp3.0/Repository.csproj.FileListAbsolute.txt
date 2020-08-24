@@ -12,3 +12,17 @@ C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Repo
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Repository\obj\Debug\netcoreapp3.0\Repository.dll
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Contracts.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Contracts.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CoreCompileInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
