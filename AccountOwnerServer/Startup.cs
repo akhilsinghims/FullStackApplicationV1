@@ -31,6 +31,7 @@ namespace AccountOwnerServer
             services.AddAutoMapper(typeof(Startup));
 
             services.AddControllers();
+            services.AddSwaggerGen();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -50,6 +51,11 @@ namespace AccountOwnerServer
                 ForwardedHeaders = ForwardedHeaders.All
             });
 
+            app.UseSwagger();
+            app.UseSwaggerUI(c => {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "AccountOwnerServer API V1");
+                c.RoutePrefix = string.Empty;
+            });
             app.UseRouting();
 
             app.UseAuthorization();

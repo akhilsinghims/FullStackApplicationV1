@@ -6,3 +6,12 @@ C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Enti
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.dll
 C:\Users\akhil\source\repos\GitHubV2\FullStackApplication\ServerApplication\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+D:\Projects\AkhilGitHub\FullStackApplicationV1\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

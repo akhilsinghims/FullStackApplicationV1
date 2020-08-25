@@ -1,0 +1,4 @@
+2020-08-24 22:11:26.2827 INFO Returned all owners from database.
+2020-08-24 22:46:06.1298 INFO Returned all owners from database.
+2020-08-24 22:50:22.7464 INFO Returned owner with id: 2f05e9cc-c482-4c7a-3c5d-08d84851a048
+2020-08-24 22:52:43.5872 INFO Returned owner with details for id: 4fb0b6ee-d5d3-4960-3c5e-08d84851a048
